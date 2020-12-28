@@ -1,6 +1,5 @@
 import tkinter as tk
 import time
-encoding = 'utf-8'
 root = tk.Tk()
 root.geometry('500x500')
 def uptime():
